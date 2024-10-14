@@ -4,5 +4,9 @@
  }
 
 header {
- border: solid 1lpx White;
+ border-bottom: solid 2px rgb(169,169,169);
+ padding: 20px;
+ font-size: 32px;
+ colo: rgb (169,169,169)
+ 
 }
