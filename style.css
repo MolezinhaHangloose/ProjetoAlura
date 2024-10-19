@@ -2,6 +2,7 @@ body {
   color: black;
   background-color: rgb(229, 226, 202);
   font-size: 18px
+  font-family: "Roboto Mono", monospace;
 }
 
 header{
