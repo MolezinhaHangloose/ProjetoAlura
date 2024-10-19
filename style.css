@@ -11,3 +11,7 @@ header{
   font-size: 28px;
   color: rgb(255, 165, 0)
 }
+
+section {
+  display: flex;
+}
